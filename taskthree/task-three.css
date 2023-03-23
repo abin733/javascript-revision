@@ -1,0 +1,7 @@
+/* Any baubles given the .animated CSS class will drop. */
+
+.selected {
+    color:red;
+    border: 10px solid red;
+}
+
